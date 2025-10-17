@@ -17,7 +17,7 @@ Trabalhos e projetos feitos durante a faculdade — mostrando meu progresso na �
 ## 🌐 Onde me encontrar
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/luís-andré-correia-sborz-87aba6246">
+  <a href="https://www.linkedin.com/in/sborzl">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
