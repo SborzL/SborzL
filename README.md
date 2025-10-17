@@ -6,10 +6,10 @@
 
 ## 📂 Meus Projetos
 
-### 🔹 [Projetos Pessoais](https://github.com/SborzL/SborzL/Pessoal)
+### 🔹 [Projetos Pessoais](https://github.com/SborzL/SborzL/tree/main/Pessoal)
 Coisas que faço por diversão, curiosidade ou pura vontade de aprender 😄
 
-### 🔹 [Projetos Acadêmicos](https://github.com/SborzL/SborzL/Academicos)
+### 🔹 [Projetos Acadêmicos](https://github.com/SborzL/SborzL/tree/main/Academicos)
 Trabalhos e projetos feitos durante a faculdade — mostrando meu progresso na área 👨‍💻
 
 ---
